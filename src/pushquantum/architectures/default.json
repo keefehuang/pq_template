@@ -1,0 +1,18 @@
+{
+  "loading_zone": "storage",
+  "zones": {
+    "storage": {
+      "x": [0, 9],
+      "y": [0, 9],
+      "spacing": 1.0,
+      "operations": ["rx", "rz"]
+    },
+    "entangling": {
+      "x": [0, 9],
+      "y": [10, 19],
+      "spacing": 1.0,
+      "pairs": {"axis": "x", "distance": 0.3},
+      "operations": ["cz", "rzz"]
+    }
+  }
+}
