@@ -12,7 +12,7 @@
       "y": [10, 19],
       "spacing": 1.0,
       "pairs": {"axis": "x", "distance": 0.3},
-      "operations": ["cz", "rzz"]
+      "operations": ["cz"]
     }
   }
 }
